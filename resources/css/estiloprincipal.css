@@ -1,0 +1,9 @@
+.botao{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.jumbotron{
+   text-align: center;
+}
